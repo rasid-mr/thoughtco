@@ -417,7 +417,7 @@ export default {
 
             You also may choose to provide personal data about yourself when you participate in forums or discussions on the Site. Please be aware that information you post in these forums may be viewed or captured by anyone who visits the Site, therefore you should avoid posting sensitive personal data that you would not want to be available to the public.
             
-            Information That Is Automatically Collected When You Visit ThoughtCo
+            (not meaingful)Information That Is Automatically Collected When You Visit ThoughtCo
             
             When you access the Site, we and our third-party partners may automatically collect certain information about your visit using tools such as cookies, web beacons, and other similar technologies. The information collected automatically when you visit the Site may include your IP address, characteristics of your operating system, information about your browser and system settings, data about the computer or mobile device you use to access the Site, unique device identifiers, clickstream data (which shows the page-by-page path you take as you browse the Site). We or our third-party partners may combine information that each of us collects automatically with other information about you, including information you choose to `,
           imageLink: "https://source.unsplash.com/daily",

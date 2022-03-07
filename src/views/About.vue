@@ -2,7 +2,7 @@
     <main>
         <h1>Hello, people.🎉🎉</h1>
         <p>I recreate this website by vue js.</p>
-        <a href="">github repo of this site</a><br>
+        <a href="https://github.com/rasid-mr/thoughtco.git">github repo of this site</a><br>
         <a href="https://www.thoughtco.com/" target="_blank">Go to the original.😎👌</a>
     </main>
 </template>

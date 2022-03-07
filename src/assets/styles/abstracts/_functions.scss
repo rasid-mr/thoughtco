@@ -1,0 +1,5 @@
+@function scaleValue($value, $ideal-viewport-width:1600) {
+    @return calc(
+      #{$value} * (clamp(350px, 100vw, 3840px) / #{$ideal-viewport-width})
+    );
+  }

@@ -66,7 +66,7 @@ export default {
     hideNav() {
       const primary = document.querySelector(".primary-navigation");
       const navToggle = document.querySelector(".mobile-nav-toggle");
-      primary.classList.add("hide-nav");
+      // primary.classList.add("hide-nav");
       primary.setAttribute("data-visible", false);
       navToggle.setAttribute("aria-expanded", false);
 

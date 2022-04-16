@@ -1,6 +1,6 @@
 <template>
   
-  <header class="primary-header flex">
+  <header class="primary-header ">
     <div>
       <router-link to="/">
         <h2 class="header_logo">
@@ -17,7 +17,7 @@
       <ul
         id="primary-navigation"
         data-visible="false"
-        class="primary-navigation underline-indicators flex"
+        class="primary-navigation"
       >
         <router-link @click="hideNav" class="router-link" tag="li" to="/section-list/science"
           >Science,Tech,Math</router-link
@@ -65,7 +65,11 @@ export default {
   methods: {
     hideNav() {
       const primary = document.querySelector(".primary-navigation");
+      const navToggle = document.querySelector(".mobile-nav-toggle");
       primary.classList.add("hide-nav");
+      primary.setAttribute("data-visible", false);
+      navToggle.setAttribute("aria-expanded", false);
+
     },
   },
 };
@@ -201,7 +205,7 @@ export default {
 }
 
 .hide-nav {
-  transform: translateX(0%);
+  transform: translateX(100%);
 }
 
 .router-link {

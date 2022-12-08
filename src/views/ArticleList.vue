@@ -23,7 +23,8 @@
           
           <img
             class="primary_sub-main-card-logo small-margin"
-            src="https://www.thoughtco.com/static/3.64.0/image/hp-science,tech,math.png"
+             
+            src="../assets/image/hp-science,tech,math.png"
             alt="science logo"
           />
         </div>
@@ -37,7 +38,7 @@
             >
             <!-- science sub logo -->
             <img
-              src="https://www.thoughtco.com/thmb/G5bfGcnsEuoKerwsCmiPxd8-cOU=/337x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/silicone-baking-molds-5ae27a9143a1030036784001.jpg"
+            src="https://picsum.photos/600/300?think"
               alt="science sub logo"
               class="science-sub-logo"
             />
@@ -73,8 +74,8 @@
         <div>
           <img
             class="primary_sub-main-card-logo small-margin"
-            src="https://www.thoughtco.com/static/3.64.0/image/hp-humanities.png"
-            alt="science logo"
+            src="../assets/image/hp-humanities.png"
+            alt="humanities logo"
           />
         </div>
         <div class="primary_sub-main">
@@ -85,7 +86,7 @@
               </h3></router-link
             >
             <img
-              src="https://www.thoughtco.com/thmb/G5bfGcnsEuoKerwsCmiPxd8-cOU=/337x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/silicone-baking-molds-5ae27a9143a1030036784001.jpg"
+            src="https://picsum.photos/600/300?action"
               alt="science sub logo"
               class="science-sub-logo"
             />
@@ -119,8 +120,8 @@
         <div>
           <img
             class="primary_sub-main-card-logo small-margin"
-            src="https://www.thoughtco.com/static/3.64.0/image/hp-languages.png"
-            alt="science logo"
+            src="../assets/image/hp-languages.png"
+            alt="languages logo"
           />
         </div>
         <div class="primary_sub-main">
@@ -131,7 +132,7 @@
               </h3></router-link
             >
             <img
-              src="https://www.thoughtco.com/thmb/G5bfGcnsEuoKerwsCmiPxd8-cOU=/337x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/silicone-baking-molds-5ae27a9143a1030036784001.jpg"
+            src="https://picsum.photos/600/300?life"
               alt="science sub logo"
               class="science-sub-logo"
             />
@@ -172,8 +173,8 @@
         <div>
           <img
             class="primary_sub-main-card-logo small-margin"
-            src="https://www.thoughtco.com/static/3.64.0/image/hp-resources.png"
-            alt="science logo"
+            src="../assets/image/hp-resources.png"
+            alt="resources logo"
           />
         </div>
         <div class="primary_sub-main">
@@ -184,7 +185,7 @@
               </h3></router-link
             >
             <img
-              src="https://www.thoughtco.com/thmb/G5bfGcnsEuoKerwsCmiPxd8-cOU=/337x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/silicone-baking-molds-5ae27a9143a1030036784001.jpg"
+              src="https://picsum.photos/600/300?love"
               alt="science sub logo"
               class="science-sub-logo"
             />
